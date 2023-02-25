@@ -1,5 +1,6 @@
-package com.lokesh.webfluxdemo;
+package com.lokesh.webfluxdemo.functionalapi;
 
+import com.lokesh.webfluxdemo.functionalapi.ExampleHandler;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.http.MediaType;

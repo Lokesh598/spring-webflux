@@ -1,4 +1,4 @@
-package com.lokesh.webfluxdemo;
+package com.lokesh.webfluxdemo.functionalapi;
 
 import org.springframework.http.MediaType;
 import org.springframework.stereotype.Component;
